@@ -15,7 +15,7 @@ class NumberLetterConverter:
 
     def getLetter(self,index:int):
         
-        index+=1
+        
         letter = ""
         letter_indexes = []
         
